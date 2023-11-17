@@ -1,0 +1,3 @@
+python
+
+pip install ursina, numpy, perlin_noise, turtle
