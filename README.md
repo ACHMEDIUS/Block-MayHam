@@ -8,7 +8,14 @@ if they come near you, you take damage and once you have taken too much damage, 
 ### Multiplayer
 In this game mode you will play against other players. You'll have several obsticles to hide behind but once you take too much damage, you'll die!
 ### Controlls
-<img src="assets/images/Controlls.png" width="250"/>
+<h1>W: Move forward</h1>
+<h1>S: Move backward</h1>
+<h1>A: Move left</h1>
+<h1>D: Move right</h1>
+<h1>Space: Jump</h1>
+<h1>Shift: Run</h1>
+<h1>Tab: Pause game</h1>
+<h1>Esc: Exit game</h1>
 
 ### To play Multiplayer on you local machine, first start the server.exe file and after that launch the game.
 ### *For this python project the following modules are used:*
